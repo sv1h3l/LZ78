@@ -3,7 +3,7 @@ LZ78 compression algorithm can be used by command line.
 
 You must have at least version 11 of Java installed to run it.
 
-
+ 
 ### PATTERN:
 java -jar LZ78.jar (encode/decode) (file-name.txt)
 
